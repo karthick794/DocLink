@@ -89,6 +89,9 @@ If you're having issues getting the above steps to work, see the [Troubleshootin
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
+App ScreenShot
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/f39a23de-276d-44b9-9d34-a1429a21a75f" />
+
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
